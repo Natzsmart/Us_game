@@ -31,7 +31,7 @@ This Python script implements a simple game where the player is prompted to gues
 1. Run the script:
 
    ```
-   python state_guessing_game.py
+   python new_game.py
    ```
 
 2. Guess the names of the states as prompted. Enter the state name and hit enter.

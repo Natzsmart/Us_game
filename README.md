@@ -17,7 +17,7 @@ This Python script implements a simple game where the player is prompted to gues
 1. Clone this repository:
 
    ```
-   git clone <repository_url>
+   git clone <https://github.com/Natzsmart/Us_game.git>
    ```
 
 2. Install dependencies:

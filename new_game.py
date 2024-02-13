@@ -22,7 +22,7 @@ while len(guessed_state)<50:
         #     if state not in guessed_state:
         #         missing_states.append(state)
         new_data = pandas.DataFrame(missing_states)
-        new_data.to_csv('magic.csv')
+        new_data.to_csv('missing_states.csv')
         break
 
     if answer_states in all_states:
